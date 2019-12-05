@@ -13,3 +13,7 @@ C:\Users\17654\Documents\ElevenFiftyProjects\RedBadge\PurpleRain2\PurpleRain2.Se
 C:\Users\17654\Documents\ElevenFiftyProjects\RedBadge\PurpleRain2\PurpleRain2.Services\obj\Debug\PurpleRain2.Services.csproj.CopyComplete
 C:\Users\17654\Documents\ElevenFiftyProjects\RedBadge\PurpleRain2\PurpleRain2.Services\obj\Debug\PurpleRain2.Services.dll
 C:\Users\17654\Documents\ElevenFiftyProjects\RedBadge\PurpleRain2\PurpleRain2.Services\obj\Debug\PurpleRain2.Services.pdb
+C:\Users\Ian\Desktop\PurpleRain2\PurpleRain2.Services\obj\Debug\PurpleRain2.Services.csprojAssemblyReference.cache
+C:\Users\Ian\Desktop\PurpleRain2\PurpleRain2.Services\obj\Debug\PurpleRain2.Services.csproj.CoreCompileInputs.cache
+C:\Users\Ian\Desktop\PurpleRain2\PurpleRain2.Services\obj\Debug\PurpleRain2.Services.dll
+C:\Users\Ian\Desktop\PurpleRain2\PurpleRain2.Services\obj\Debug\PurpleRain2.Services.pdb

@@ -13,3 +13,7 @@ C:\Users\17654\Documents\ElevenFiftyProjects\RedBadge\PurpleRain2\PurpleRain2.Mo
 C:\Users\17654\Documents\ElevenFiftyProjects\RedBadge\PurpleRain2\PurpleRain2.Models\obj\Debug\PurpleRain2.Models.csproj.CopyComplete
 C:\Users\17654\Documents\ElevenFiftyProjects\RedBadge\PurpleRain2\PurpleRain2.Models\obj\Debug\PurpleRain2.Models.dll
 C:\Users\17654\Documents\ElevenFiftyProjects\RedBadge\PurpleRain2\PurpleRain2.Models\obj\Debug\PurpleRain2.Models.pdb
+C:\Users\Ian\Desktop\PurpleRain2\PurpleRain2.Models\obj\Debug\PurpleRain2.Models.csprojAssemblyReference.cache
+C:\Users\Ian\Desktop\PurpleRain2\PurpleRain2.Models\obj\Debug\PurpleRain2.Models.csproj.CoreCompileInputs.cache
+C:\Users\Ian\Desktop\PurpleRain2\PurpleRain2.Models\obj\Debug\PurpleRain2.Models.dll
+C:\Users\Ian\Desktop\PurpleRain2\PurpleRain2.Models\obj\Debug\PurpleRain2.Models.pdb
