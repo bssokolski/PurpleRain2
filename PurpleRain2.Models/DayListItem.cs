@@ -13,7 +13,7 @@ namespace PurpleRain2.Models
         public int DayID { get; set; }
         public string DayName { get; set; }
         public string Date { get; set; }
-        public Outfit Outfit { get; set; }]
+        public Outfit Outfit { get; set; }
         public Goal Goal { get; set; }
     }
 }

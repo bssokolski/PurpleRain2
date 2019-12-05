@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PurpleRain2.Services", "Pur
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PurpleRain2.Models", "PurpleRain2.Models\PurpleRain2.Models.csproj", "{35B041EA-5109-4402-BF61-A1F431046375}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PurpleRain2.WebAPI", "PurpleRain2.WebAPI\PurpleRain2.WebAPI.csproj", "{8910B198-FEC5-4A20-823C-01CBC3EC45DD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{35B041EA-5109-4402-BF61-A1F431046375}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{35B041EA-5109-4402-BF61-A1F431046375}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{35B041EA-5109-4402-BF61-A1F431046375}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8910B198-FEC5-4A20-823C-01CBC3EC45DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8910B198-FEC5-4A20-823C-01CBC3EC45DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8910B198-FEC5-4A20-823C-01CBC3EC45DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8910B198-FEC5-4A20-823C-01CBC3EC45DD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
