@@ -6,11 +6,13 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Http;
-using System.Web.Mvc;
+using System.Net.Http;
+
 
 namespace PurpleRain2.WebAPI.Controllers
 {
-    public class OutfitController : Controller
+    [Authorize]
+    public class OutfitController : ApiController
     {
         //public IHttpActionResult GetAll()
         //{
@@ -26,27 +28,27 @@ namespace PurpleRain2.WebAPI.Controllers
             return Ok(outfit);
         }
 
-        public IHttpActionResult Post(OutfitCreate outfit)
+        public IHttpActionResult Post(int dayId,OutfitCreate outfit)
         {
             if (!ModelState.IsValid)
                 return BadRequest(ModelState);
 
             var service = CreateOutfitService();
 
-            if (!service.CreateOutfit(outfit))
+            if (!service.CreateOutfit(dayId,outfit))
                 return InternalServerError();
 
             return Ok();
         }
 
-        public IHttpActionResult Put(OutfitEdit outfit)
+        public IHttpActionResult Put(int outfitId,OutfitEdit outfit)
         {
             if (!ModelState.IsValid)
                 return BadRequest(ModelState);
 
             var service = CreateOutfitService();
 
-            if (!service.UpdateOutfit(outfit))
+            if (!service.UpdateOutfit(outfitId,outfit))
                 return InternalServerError();
 
             return Ok();
