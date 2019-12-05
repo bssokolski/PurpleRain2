@@ -1,4 +1,5 @@
 ﻿using PurpleRain2.Data;
+using PurpleRain2.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -22,8 +23,7 @@ namespace PurpleRain2.Services
                 {
 
                     OutfitName = model.OutfitName,
-                    Top = model.Top,
-                    Bottom = model.Bottom,
+
                 };
 
             using (var ctx = new ApplicationDbContext())
@@ -48,7 +48,7 @@ namespace PurpleRain2.Services
             {
                 var entity =
                     ctx
-                        .Outfit
+                        .Outfits
                         .Single(e => e.OutfitID == outfitid);
                 return
                     new OutfitDetails
