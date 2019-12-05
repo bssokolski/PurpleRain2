@@ -1,0 +1,15 @@
+C:\Users\17654\Documents\ElevenFiftyProjects\RedBadge\PurpleRain2\PurpleRain2.Services\bin\Debug\PurpleRain2.Services.dll.config
+C:\Users\17654\Documents\ElevenFiftyProjects\RedBadge\PurpleRain2\PurpleRain2.Services\bin\Debug\PurpleRain2.Services.dll
+C:\Users\17654\Documents\ElevenFiftyProjects\RedBadge\PurpleRain2\PurpleRain2.Services\bin\Debug\PurpleRain2.Services.pdb
+C:\Users\17654\Documents\ElevenFiftyProjects\RedBadge\PurpleRain2\PurpleRain2.Services\bin\Debug\EntityFramework.dll
+C:\Users\17654\Documents\ElevenFiftyProjects\RedBadge\PurpleRain2\PurpleRain2.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\17654\Documents\ElevenFiftyProjects\RedBadge\PurpleRain2\PurpleRain2.Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\17654\Documents\ElevenFiftyProjects\RedBadge\PurpleRain2\PurpleRain2.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\17654\Documents\ElevenFiftyProjects\RedBadge\PurpleRain2\PurpleRain2.Services\bin\Debug\EntityFramework.xml
+C:\Users\17654\Documents\ElevenFiftyProjects\RedBadge\PurpleRain2\PurpleRain2.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\17654\Documents\ElevenFiftyProjects\RedBadge\PurpleRain2\PurpleRain2.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\17654\Documents\ElevenFiftyProjects\RedBadge\PurpleRain2\PurpleRain2.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\17654\Documents\ElevenFiftyProjects\RedBadge\PurpleRain2\PurpleRain2.Services\obj\Debug\PurpleRain2.Services.csprojAssemblyReference.cache
+C:\Users\17654\Documents\ElevenFiftyProjects\RedBadge\PurpleRain2\PurpleRain2.Services\obj\Debug\PurpleRain2.Services.csproj.CopyComplete
+C:\Users\17654\Documents\ElevenFiftyProjects\RedBadge\PurpleRain2\PurpleRain2.Services\obj\Debug\PurpleRain2.Services.dll
+C:\Users\17654\Documents\ElevenFiftyProjects\RedBadge\PurpleRain2\PurpleRain2.Services\obj\Debug\PurpleRain2.Services.pdb
