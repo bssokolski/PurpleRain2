@@ -6,13 +6,13 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Http;
-using System.Web.Mvc;
-using AuthorizeAttribute = System.Web.Http.AuthorizeAttribute;
+using System.Net.Http;
+
 
 namespace PurpleRain2.WebAPI.Controllers
 {
     [Authorize]
-    public class DayController : Controller
+    public class DayController : ApiController
     {
         public IHttpActionResult GetAll()
         {

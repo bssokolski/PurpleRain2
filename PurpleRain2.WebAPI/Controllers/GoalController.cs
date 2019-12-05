@@ -6,13 +6,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Http;
-using System.Web.Mvc;
-using AuthorizeAttribute = System.Web.Http.AuthorizeAttribute;
+using System.Net.Http;
 
 namespace PurpleRain2.WebAPI.Controllers
 {
     [Authorize]
-    public class GoalController : Controller
+    public class GoalController : ApiController
     {
         //public IHttpActionResult GetAll()
         //{
@@ -28,27 +27,27 @@ namespace PurpleRain2.WebAPI.Controllers
             return Ok(goal);
         }
 
-        public IHttpActionResult Post(GoalCreate goal)
+        public IHttpActionResult Post(int dayID,GoalCreate goal)
         {
             if (!ModelState.IsValid)
                 return BadRequest(ModelState);
 
             var service = CreateGoalService();
 
-            if (!service.CreateGoal(goal))
+            if (!service.CreateGoal(dayID, goal))
                 return InternalServerError();
 
             return Ok();
         }
 
-        public IHttpActionResult Put(GoalEdit goal)
+        public IHttpActionResult Put(int actionId,GoalEdit goal)
         {
             if (!ModelState.IsValid)
                 return BadRequest(ModelState);
 
             var service = CreateGoalService();
 
-            if (!service.UpdatGoal(goal))
+            if (!service.UpdatGoal(actionId, goal))
                 return InternalServerError();
 
             return Ok();
