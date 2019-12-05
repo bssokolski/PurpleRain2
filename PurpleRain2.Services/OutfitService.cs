@@ -21,9 +21,7 @@ namespace PurpleRain2.Services
             var entity =
                 new Outfit()
                 {
-
                     OutfitName = model.OutfitName,
-
                 };
 
             using (var ctx = new ApplicationDbContext())
